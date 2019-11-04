@@ -9,7 +9,7 @@ The project is to build a new set of tools to visualize United States Geological
 
 ### Screenshot
 
-![Image description](link-to-image)
+![Image description](https://github.com/melakue/Geo-Mapping/blob/master/Leaflet%20screenshot.JPG)
 
 
 
